@@ -5,3 +5,5 @@
 [![Build Status](https://travis-ci.com/liujiajun1994/leetcode.svg?branch=master)](https://travis-ci.com/liujiajun1994/leetcode)
 
 [![Coverage Status](https://coveralls.io/repos/github/liujiajun1994/leetcode/badge.svg)](https://coveralls.io/github/liujiajun1994/leetcode)
+
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light.svg)](https://deepsource.io/gh/liujiajun1994/leetcode/?ref=repository-badge)
